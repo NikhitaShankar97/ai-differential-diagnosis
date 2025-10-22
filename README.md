@@ -101,4 +101,5 @@ Served as **Data Science & AI Consultant**, focusing on:
 ---
 
 ## 📎 File Included
-- `/presentation/Wolters_Kluwer_LLM_Differential_Diagnosis.pdf` – client presentation deck summarizing approach, evaluation, and results
+- `/presentation/Wolters_Kluwer_LLM_Differential_Diagnosis.pptx` – client presentation deck summarizing approach, evaluation, and results
+
